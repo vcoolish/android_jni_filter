@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MetaFilter</string>
+    <string name="edit_text_url">Enter a link to text file</string>
+    <string name="edit_text_filter">Enter search mask</string>
+    <string name="button_get_content">Get content</string>
+    <string name="downloading">"Downloading"</string>
+    <string name="error">Something went wrong</string>
+</resources>
